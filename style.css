@@ -90,59 +90,58 @@
     box-shadow: 2px 2px 2px 2px grey;
     cursor: pointer;
 }
-@media screen and (max-width: 320px){
+@media screen and (max-width: 400px){
     .name{
         margin-left: 0px;
     }
 } 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 400px){
     .header1{
         font-size: large;
     }
 } 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 400px){
     .header{
         font-size: large;
         height: 40px;
     }
 } 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 400px){
     .qfirst{
         margin-left: 0px;
         width: 290px;
     }
 } 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 400px){
     .q{
         margin-left: 35px;
         margin-right: 10px;
     }
 } 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 400px){
     .qfifth{
         margin-left: 0px;
         width: 290px;
     }
 }
-@media screen and (max-width: 320px){
+@media screen and (max-width: 400px){
     .qsecond{
         margin-left: 0px;
         width: 290px;
         height: 350px;
     }
 }
-@media screen and (max-width: 320px){
+@media screen and (max-width: 400px){
     .qthird{
         margin-left: 0px;
         width: 290px;
         height: 450px;
     }
 }
-@media screen and (max-width: 320px){
+@media screen and (max-width: 400px){
     .qfifth{
         height: 290px;
         margin-left: 0px;
         height: 700px;
     }
 }
-/* ff */
