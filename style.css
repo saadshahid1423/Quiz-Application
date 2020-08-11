@@ -110,6 +110,7 @@
     .qfirst{
         margin-left: 0px;
         width: 290px;
+        height: 400px;
     }
 } 
 @media screen and (max-width: 400px){
@@ -122,27 +123,21 @@
     .qfifth{
         margin-left: 0px;
         width: 290px;
+        height: 800px;
     }
 }
 @media screen and (max-width: 400px){
     .qsecond{
         margin-left: 0px;
         width: 290px;
-        height: 350px;
+        height: 400px;
     }
 }
 @media screen and (max-width: 400px){
     .qthird{
         margin-left: 0px;
         width: 290px;
-        height: 450px;
-    }
-}
-@media screen and (max-width: 400px){
-    .qfifth{
-        height: 290px;
-        margin-left: 0px;
-        height: 700px;
+        height: 550px;
     }
 }
 /* ff */
