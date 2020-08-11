@@ -1,0 +1,147 @@
+.header{
+    background-color: greenyellow;
+    text-align: center;
+    text-decoration: underline;
+    height: 60px;
+    width: auto;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.header1{
+    background-color: greenyellow;
+    text-align: center;
+    text-decoration: underline;
+    height: 60px;
+    width: auto;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.name{
+    margin-left: 550px;
+    border-radius: 6px;
+    height: 20px;
+    box-shadow: 1px 1px 1px 1px grey;
+}
+.but{
+    height: 25px;
+    width: 50px;
+    background-color: greenyellow;
+    border-radius: 6px;
+    box-shadow: 1px 1px 1px 1px grey;
+}
+.full{
+    background-color: greenyellow;
+}
+.qfirst{
+    height:320px;
+    width: 700px;
+    margin-left: 320px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px 5px black;
+}
+.q{
+    margin-left: 100px;
+    margin-top: 80px;
+    font-size: x-large;
+    margin-right: 100px;
+}
+.qa{
+    margin-left: 100px;
+    margin-top: 80px;
+    font-size: x-large;
+    margin-right: 100px;
+}
+.next{
+    margin-left: 100px;
+    width: 70px;
+    background-color: greenyellow;
+    border-radius: 6px;
+    box-shadow: 2px 2px 2px 2px grey;
+    cursor: pointer;
+}
+.qsecond{
+    height:320px;
+    width: 700px;
+    margin-left: 320px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px 5px black;
+}
+.qthird{
+    height:350px;
+    width: 700px;
+    margin-left: 320px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px 5px black;
+}
+.qfifth{
+    height: 500px;
+    width: 700px;
+    margin-left: 320px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px 5px black;
+}
+.back{
+    margin-left: 0px;
+    width: 70px;
+    background-color: greenyellow;
+    border-radius: 6px;
+    box-shadow: 2px 2px 2px 2px grey;
+    cursor: pointer;
+}
+@media screen and (max-width: 320px){
+    .name{
+        margin-left: 0px;
+    }
+} 
+@media screen and (max-width: 320px){
+    .header1{
+        font-size: large;
+    }
+} 
+@media screen and (max-width: 320px){
+    .header{
+        font-size: large;
+        height: 40px;
+    }
+} 
+@media screen and (max-width: 320px){
+    .qfirst{
+        margin-left: 0px;
+        width: 290px;
+    }
+} 
+@media screen and (max-width: 320px){
+    .q{
+        margin-left: 35px;
+        margin-right: 10px;
+    }
+} 
+@media screen and (max-width: 320px){
+    .qfifth{
+        margin-left: 0px;
+        width: 290px;
+    }
+}
+@media screen and (max-width: 320px){
+    .qsecond{
+        margin-left: 0px;
+        width: 290px;
+        height: 350px;
+    }
+}
+@media screen and (max-width: 320px){
+    .qthird{
+        margin-left: 0px;
+        width: 290px;
+        height: 450px;
+    }
+}
+@media screen and (max-width: 320px){
+    .qfifth{
+        height: 290px;
+        margin-left: 0px;
+        height: 700px;
+    }
+}
